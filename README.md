@@ -8,3 +8,6 @@ I think the easiest is to clone and then within that clone to generate an own di
 then we can all work on master branch.
 
 renoes directory --> Sönke jne
+
+FOR SUBMISSION
+we have an extra folder for submission Final_Project_material_Geonobles_1 pls look there
