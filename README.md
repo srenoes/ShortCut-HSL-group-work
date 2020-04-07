@@ -10,4 +10,4 @@ then we can all work on master branch.
 renoes directory --> Sönke jne
 
 FOR SUBMISSION
-we have an extra folder for submission Final_Project_aterial_Geonobles_1 pls look there
+we have an extra folder for submission Final_Project_material_Geonobles_1 pls look there
