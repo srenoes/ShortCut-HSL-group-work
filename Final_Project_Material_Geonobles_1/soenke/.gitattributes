@@ -1,0 +1,2 @@
+HEL_ESP_VAN_KAU_bike_routes.graphml filter=lfs diff=lfs merge=lfs -text
+Spatial_analysis_main.ipynb filter=lfs diff=lfs merge=lfs -text
